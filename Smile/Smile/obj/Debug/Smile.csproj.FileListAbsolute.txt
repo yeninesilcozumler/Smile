@@ -1,0 +1,11 @@
+C:\Users\EmreOzturk\source\repos\Smile\Smile\bin\Debug\Smile.exe.config
+C:\Users\EmreOzturk\source\repos\Smile\Smile\bin\Debug\Smile.exe
+C:\Users\EmreOzturk\source\repos\Smile\Smile\bin\Debug\Smile.pdb
+C:\Users\EmreOzturk\source\repos\Smile\Smile\obj\Debug\Smile.csproj.AssemblyReference.cache
+C:\Users\EmreOzturk\source\repos\Smile\Smile\obj\Debug\Smile.csproj.SuggestedBindingRedirects.cache
+C:\Users\EmreOzturk\source\repos\Smile\Smile\obj\Debug\Smile.Smile.resources
+C:\Users\EmreOzturk\source\repos\Smile\Smile\obj\Debug\Smile.Properties.Resources.resources
+C:\Users\EmreOzturk\source\repos\Smile\Smile\obj\Debug\Smile.csproj.GenerateResource.cache
+C:\Users\EmreOzturk\source\repos\Smile\Smile\obj\Debug\Smile.csproj.CoreCompileInputs.cache
+C:\Users\EmreOzturk\source\repos\Smile\Smile\obj\Debug\Smile.exe
+C:\Users\EmreOzturk\source\repos\Smile\Smile\obj\Debug\Smile.pdb
